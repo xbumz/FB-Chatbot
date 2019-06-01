@@ -1,0 +1,22 @@
+{
+  "name": "facebook-chat-bot",
+  "version": "1.0.0",
+  "description": "A facebook bot \"Pudding Dog\"",
+  "main": "index.js",
+  "dependencies": {
+    "facebook-chat-api": "^1.1.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Larry850806/facebook-chat-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Larry850806/facebook-chat-bot/issues"
+  },
+  "homepage": "https://github.com/Larry850806/facebook-chat-bot#readme"
+}
