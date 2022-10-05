@@ -4,7 +4,7 @@
   "description": "A facebook bot \"Pudding Dog\"",
   "main": "index.js",
   "dependencies": {
-    "facebook-chat-api": "^1.1.0"
+    "facebook-chat-api": "^1.8.0"
   },
   "scripts": {
     "start": "node index.js"
